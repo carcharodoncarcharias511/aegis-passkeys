@@ -1,0 +1,7 @@
+{
+  "origins": [
+    "https://prod.aegis.aacara.com",
+    "https://dev.aegis.aacara.com",
+    "https://mobiotics.aegis.aacara.com"
+  ]
+}
